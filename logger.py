@@ -17,7 +17,7 @@ module_logger = get_configured_logger('test.logger')
 
 def divide(x, y):
     try:
-        result = x // y
+        result = x / y
     except ZeroDivisionError:
         module_logger.exception('Tried to divide by zero')
     else:
