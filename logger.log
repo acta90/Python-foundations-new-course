@@ -1,0 +1,6 @@
+2020-03-11 17:00:05,486 - test.logger - ERROR - Tried to divide by zero
+Traceback (most recent call last):
+  File "C:\Users\Ivaylo.Lambrev\PycharmProjects\Python-foundations-new-course\logger.py", line 20, in divide
+    result = x // y
+ZeroDivisionError: integer division or modulo by zero
+2020-03-11 17:00:05,487 - test.logger - INFO - Div: 10 / 0 = None
