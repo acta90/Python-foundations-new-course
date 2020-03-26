@@ -29,3 +29,4 @@ num_2 = 0
 div_result = divide(num_1, num_2)
 module_logger.info('Div: {} / {} = {}'.format(num_1, num_2, div_result))
 
+
