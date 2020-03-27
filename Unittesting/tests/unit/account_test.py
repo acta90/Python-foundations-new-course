@@ -1,3 +1,8 @@
+# In this exercise you will create a set of test cases to test a bank Account class.
+# Each new Account must have an account number, a date of opening, an interest rate, and an opening balance.
+# It must support methods to deposit and withdraw money and to transfer money between accounts.
+# Do not implement the Account class (a dummy implementation is enough - all methods should just "pass").
+
 from unittest import TestCase
 from Unittesting.account import Account
 
