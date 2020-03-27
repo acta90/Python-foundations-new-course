@@ -6,7 +6,7 @@ class AccountTest(TestCase):
 
     def setUp(self):
         self.acc1 = Account(1, '01-01-2020', 0.2, 5000)
-        self.acc2 = Account(2, '01-02-2020', 0.3, 10000)
+        self.acc2 = Account(2, '02-02-2020', 0.3, 10000)
 
     def test_create_account(self):
         self.assertEqual(self.acc1.account_number, 1)
