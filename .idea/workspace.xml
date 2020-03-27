@@ -9,4 +9,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="573" y="112" key="CommitChangelistDialog2" timestamp="1585311336293">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="573" y="112" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1366.768@0.0.1920.1040" timestamp="1585311336293" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1585311343913">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1366.768@0.0.1920.1040" timestamp="1585311343913" />
+  </component>
 </project>
