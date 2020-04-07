@@ -19,4 +19,3 @@ class Account:
         self.current_balance -= amount
         account_number.current_balance += amount
 
-# pass
